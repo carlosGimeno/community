@@ -47,6 +47,8 @@ Manage documentation for the Operate First Cloud offering. Ensure documentation 
 and maintained in coordination with other Operate First sigs.
 - **Owners:**
   - [operate-first/community/sig-operations/subprojects/ops-docs](https://github.com/operate-first/community/blob/main/sig-operations/subprojects/ops-docs/OWNERS)
+- **Meetings:**
+  - Ops-docs meeting: [Mondays at 14:00 EST](https://meet.google.com/dyi-zsya-tbc) (Bi-Weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=EST).  
 
 [subproject-definition]: https://github.com/operate-first/community/blob/master/governance.md#subprojects
 <!-- BEGIN CUSTOM CONTENT -->
